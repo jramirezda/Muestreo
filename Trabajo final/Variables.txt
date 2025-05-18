@@ -1,0 +1,16 @@
+Departamento
+
+¿Cuánto tiempo se demora regularmente … en su desplazamiento hacia el trabajo? 
+
+¿Está ... satisfecho: Con su trabajo actual?
+1:si
+2:no
+
+¿El contrato de trabajo es a término indefinido o a término fijo?
+1:indefinido
+2:fijo
+3:no sabe/no informa
+
+Antes de descuentos, ¿cuánto ganó … el mes pasado en este empleo?  Incluya propinas y comisiones y excluya viáticos y pagos en especie. 
+
+¿Cuánto tiempo lleva … trabajando en esta empresa, negocio, industria, oficina,  firma o finca de manera continua?  (meses) 
